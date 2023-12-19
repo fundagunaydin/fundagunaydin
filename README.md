@@ -23,8 +23,3 @@
  
 ## Current Works 
  * I'm currently working on 🔭 building **.net core applications** and working up on polishing my skills 🌱 in **Backend Programming**.
-
- ## Linkedin Profile
- * https://www.linkedin.com/in/funda-gunaydin-a07512197/
- 
- 
