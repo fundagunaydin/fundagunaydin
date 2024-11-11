@@ -10,7 +10,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-fundagunaydin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/funda-gunaydin-a07512197/)](https://www.linkedin.com/in/funda-gunaydin-a07512197/) [![Gmail Badge](https://img.shields.io/badge/-fundagunaydin35@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fundagunaydin35@hotmail.com)](mailto:fundagunaydin35@hotmail.com)
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
 * .net Core, C#
